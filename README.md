@@ -1,3 +1,6 @@
+
+# Grupo 2 – Biblioteca Digital
+
 # Grupo-2-Biblioteca-Digital
 
 ## 📑 Tabla de Contenido
@@ -9,6 +12,21 @@
 6. [Requerimientos No Funcionales](docs/requerimiento-no-funcional)
 7. [Trazabilidad ](docs/tabla-trazabilidad)
 
+
+## RF-02: Solicitud de Préstamo
+
+### HU-02: Solicitar Préstamo Digital
+
+**Como** usuario registrado,  
+**quiero** solicitar el préstamo de un libro digital,  
+**para** poder leerlo en línea.
+
+### Criterios de Aceptación
+
+- Solo los usuarios autenticados pueden solicitar un préstamo.
+- El sistema debe verificar la disponibilidad del libro.
+- Debe generarse una confirmación del préstamo.
+
 ## RF-03 Renovación de Préstamo
 
 ### *HU-03 – Renovar Préstamo*
@@ -19,3 +37,14 @@ Como usuario registrado quiero renovar un préstamo activo para extender el tiem
 -  Solo puede renovarse antes de la fecha límite.
 -  No debe permitirse renovar si hay lista de espera.
 -  Debe actualizarse la nueva fecha de vencimiento.
+
+# Tabla Trazabilidad
+
+| HU | RF | Caso de Prueba | Estado |
+|----|------------|----------|--------|
+| HU-01 | RF-01 - Registro de Usuario | El correo no debe estar previamente registrado. | Pendiente | 
+| HU-02 | RF-02 - Solicitud de Préstamo | El sistema debe verificar disponibilidad del libro. | Pendiente | 
+| HU-03 | RF-03 - Renovar Préstamo | Solo puede renovarse antes de la fecha límite. | Pendiente | 
+
+
+
