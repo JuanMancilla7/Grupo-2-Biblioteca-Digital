@@ -7,4 +7,4 @@
 4. [Requerimiento Funcional 2](docs/Solicitud-de-prestamo)
 5. [Requerimiento Funcional 3](docs/hu03-renovar-prestamo)
 6. [Requerimientos No Funcionales](docs/requerimiento-no-funcional)
-7. [Trazabilidad](docs/tabla-trazabilidad)
+7. [Trazabilidad ](docs/tabla-trazabilidad)
