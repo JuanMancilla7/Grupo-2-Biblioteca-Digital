@@ -1,4 +1,4 @@
-# Grupo-2-Biblioteca-Digital
+## RF-03 Renovación de Préstamo
 
 ### *HU-03 – Renovar Préstamo*
 
