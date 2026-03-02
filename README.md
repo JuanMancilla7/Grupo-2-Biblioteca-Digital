@@ -49,6 +49,12 @@ Como usuario registrado quiero renovar un préstamo activo para extender el tiem
 -  No debe permitirse renovar si hay lista de espera.
 -  Debe actualizarse la nueva fecha de vencimiento.
 
+## *RNF*
+
+### RNF-01 Disponibilidad:
+
+- El sistema debe estar disponible el 95% del tiempo mensual.
+
 # Tabla Trazabilidad
 
 | HU | RF | Caso de Prueba | Estado |
