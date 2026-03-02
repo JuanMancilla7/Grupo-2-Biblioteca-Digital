@@ -1,6 +1,4 @@
 
-# Grupo 2 – Biblioteca Digital
-
 # Grupo-2-Biblioteca-Digital
 
 ## 📑 Tabla de Contenido
@@ -12,6 +10,19 @@
 6. [Requerimientos No Funcionales](docs/requerimiento-no-funcional)
 7. [Trazabilidad ](docs/tabla-trazabilidad)
 
+# RF-01 Registro de Usuario
+
+## HU-01 – Registro de Usuario
+
+**Como** visitante  
+**quiero** crear una cuenta en la biblioteca digital  
+**para** poder acceder a los libros disponibles  
+
+### Criterios de Aceptación
+
+- El correo no debe estar previamente registrado.
+- Debe validarse formato de correo.
+- Debe mostrarse confirmación de registro exitoso.
 
 ## RF-02: Solicitud de Préstamo
 
