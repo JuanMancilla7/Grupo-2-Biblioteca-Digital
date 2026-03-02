@@ -55,6 +55,10 @@ Como usuario registrado quiero renovar un préstamo activo para extender el tiem
 
 - El sistema debe estar disponible el 95% del tiempo mensual.
 
+### RNF-02 Seguridad:
+
+- El sistema debe almacenar las contraseñas cifradas.
+
 # Tabla Trazabilidad
 
 | HU | RF | Caso de Prueba | Estado |
